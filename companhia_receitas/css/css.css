@@ -1,5 +1,5 @@
 body{
-	background-color: #1b1c1d;
+	background-color: white !important;
 }
 
 .hidden.menu {
@@ -10,7 +10,7 @@ body{
 }
 
 .background{
-	background-color: #000000;
+	background-color: white;
 }
 
 .masthead.segment {
@@ -62,7 +62,7 @@ body{
 	padding-bottom: 5em;
 }
 
-.footer.segment {
+.footer.segment{
 	padding: 5em 0em;
 }
 
